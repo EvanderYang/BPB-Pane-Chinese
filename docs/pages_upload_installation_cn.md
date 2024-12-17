@@ -43,7 +43,7 @@
 
 好了，我们与 KV 的工作完成了。
 
-在同一 `Settings` 部分，您会看到 `Variables and Secrets`，点击 `Add variable`，在第一个框中输入大写的 `UUID`，您可以从上一步的链接中获取 UUID 并复制到 Value 部分并保存。再次点击 `Add variable`，在第一个框中输入大写的 `TROJAN_PASS`，您可以从上一步的链接中获取 Trojan 密码并复制到 Value 部分并保存。
+在同一 `Settings` 部分，您会看到 `Variables and Secrets`，点击 `Add variable`，在第一个框中输入 `编号`，您可以从上一步的链接中获取 UUID 并复制到 Value 部分并保存。再次点击 `Add variable`，在第一个框中输入大写的 `密码`，您可以从上一步的链接中获取 Trojan 密码并复制到 Value 部分并保存。
 
 现在，从页面顶部点击 `Create deployment`，再次像之前一样上传相同的 zip 文件。
 
